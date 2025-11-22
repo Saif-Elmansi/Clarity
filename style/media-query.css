@@ -1,0 +1,98 @@
+@media screen and (min-width: 576px) {
+  .mega-menu {
+    width: 400px;
+    border-radius: 16px;
+    border: none;
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.1);
+    top: 100%;
+    left: 20%;
+    transform: translateX(-10%);
+    overflow-y: scroll;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .mega-menu {
+    width: 600px;
+    border-radius: 16px;
+    border: none;
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.1);
+    top: 100%;
+    left: 20%;
+    transform: translateX(0%);
+    overflow-y: scroll;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .mega-menu {
+    width: 1000px;
+    border-radius: 16px;
+    border: none;
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.1);
+    top: 100%;
+    left: 20%;
+    transform: translateX(-20%);
+    overflow: hidden;
+  }
+
+  header .text-coler-greadient {
+    font-size: 60px;
+    font-weight: 900;
+    line-height: 75px;
+  }
+  header .text-coler-greadient-2 {
+    font-size: 60px;
+    font-weight: 900;
+    line-height: 75px;
+  }
+  header .text-coler-greadient-3 {
+    font-size: 60px;
+    font-weight: 900;
+    line-height: 75px;
+  }
+
+  .header-comman .first-word {
+    font-size: 48px;
+    font-weight: 900;
+    line-height: 42px;
+  }
+  .header-comman .sec-word {
+    font-size: 48px;
+    font-weight: 900;
+    line-height: 42px;
+  }
+
+  .header-comman .text-lg {
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 25px;
+    width: 75%;
+  }
+
+  #accordionExample {
+    width: 75%;
+    margin: auto;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  header .text-coler-greadient {
+    font-size: 60px;
+    font-weight: 900;
+    line-height: 75px;
+  }
+  header .text-coler-greadient-2 {
+    font-size: 60px;
+    font-weight: 900;
+    line-height: 75px;
+  }
+  header .text-coler-greadient-3 {
+    font-size: 60px;
+    font-weight: 900;
+    line-height: 75px;
+  }
+}
+
+@media screen and (min-width: 1400px) {
+}
